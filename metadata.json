@@ -1,0 +1,8 @@
+{
+  "name": "StartZoda",
+  "description": "A risk-free virtual stock trading platform for future investors. Learn the Indian market with virtual currency and AI-powered financial education.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
